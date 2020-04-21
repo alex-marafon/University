@@ -2,4 +2,4 @@
 # Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/University/v16
+/University/.vs/University/v16/Server/sqlite3/db.lock
